@@ -1,6 +1,6 @@
 {
   "id": "tag-extension",
   "name": "tag extension",
-  "srcdoc": "./build/index.html",
+  "srcdoc": "./src/index.html",
   "fieldTypes": ["Text"]
 }
